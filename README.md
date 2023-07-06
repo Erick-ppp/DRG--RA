@@ -1,6 +1,6 @@
 # DRG--RA
 Paper code
-Diagnosis, clustering, and immune cell infiltration analysis of disulfidptosis-related genes in patients with rheumatoid arthritis—a bioinformatics analysis
+title：Diagnosis, clustering, and immune cell infiltration analysis of disulfidptosis-related genes in patients with rheumatoid arthritis—a bioinformatics analysis
 Email address: doctorxiaozou1998@163.com (Zhichen Zou)
             pyfaikeyan@163.com (Yunfei Pu)
             wfw675431@163.com(Fengwei Wang)
